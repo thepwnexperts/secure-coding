@@ -13,3 +13,6 @@ we divied project in the small modules
 8) Authorization (how securely done permission level) [module 8] (https://github.com/thepwnexperts/m8)
 9) work securely (like .env on server) [module 9] (https://github.com/thepwnexperts/m9)
 10) secure and reliable communication [module 10] (https://github.com/thepwnexperts/m10)
+
+
+if you wants to contribute but have issue or any query please feel free to contact us on provided platforms or simpley mail on contributors@thepwnexperts.com
