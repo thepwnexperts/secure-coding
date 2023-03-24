@@ -3,10 +3,14 @@
 
 we divied project in the small modules
 
-1) Server - client side [module 1] (https://github.com/thepwnexperts/m1)
+1) Server - client side [module 1] (https://github.com/thepwnexperts/m1) [✅ done 🎯]
+
+
 2) types of authentication [module 2] (https://github.com/thepwnexperts/m2)
 3) password hashes and ways to storing [module 3] (https://github.com/thepwnexperts/m3)
-4) input sanitization (waf) [module 4] (https://github.com/thepwnexperts/m4)
+4) input sanitization (waf) [module 4] (https://github.com/thepwnexperts/m4) [📈🧑‍💻 in progress]
+
+
 5) empact mitigation(isolation) [module 5] (https://github.com/thepwnexperts/m5)
 6) rate limiting (on application) [module 6] (https://github.com/thepwnexperts/m6)
 7) fail2ban (on system (blue teaming)) [module 7] (https://github.com/thepwnexperts/m7)
