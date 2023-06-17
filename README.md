@@ -24,7 +24,7 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    This module focuses on implementing secure coding practices for the server-client architecture. Learn how to handle data securely between the server and client sides, prevent common vulnerabilities, and ensure secure communication.
 
-2. [Types of Authentication](https://github.com/thepwnexperts/m2)
+2. [Authentication](https://github.com/thepwnexperts/m2)
 
    In this module, explore different types of authentication mechanisms and their secure implementation. Protect user identities and ensure secure access to the application.
 
