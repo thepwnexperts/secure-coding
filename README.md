@@ -44,9 +44,15 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    The module addresses the importance of rate limiting and implements techniques to prevent abuse and ensure application stability. Control the rate of incoming requests and protect against various types of attacks.
 
-7. [Fail2Ban (On System - Blue Teaming)](https://github.com/thepwnexperts/m7)
+7. [Misconfiguration](https://github.com/thepwnexperts/m7)
 
-   This module focuses on using Fail2Ban, a popular intrusion prevention tool, to enhance system security from a blue teaming perspective. Learn how to detect and respond to suspicious activities on the system.
+   This module focuses specifically on misconfigurations related to web applications and their impact on security. Learn about common web application misconfigurations that can expose vulnerabilities and understand how to identify and remediate them effectively.
+
+   The module covers a range of web application misconfigurations, including insecure server settings, weak access controls, improper handling of user input, and other important configurations like SPF (Sender Policy Framework) records. Although SPF records are typically associated with system misconfigurations, they are included in this module due to their importance in enhancing email security and preventing spoofing attacks.
+
+   By studying practical examples and best practices, you will gain valuable insights into the consequences of these misconfigurations and how to prevent them. Understanding web application misconfigurations is crucial for maintaining the security and integrity of your web applications.
+
+   Note: For comprehensive coverage of network and system misconfigurations, separate modules will be provided. However, the inclusion of important configurations like SPF records in this web application misconfiguration module highlights their significance in overall system security.
 
 8. [Authorization (Secure Permission Levels)](https://github.com/thepwnexperts/m8)
 
