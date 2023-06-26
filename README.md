@@ -58,7 +58,7 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    In this module, implement secure authorization mechanisms and permission levels to ensure proper access control. Manage user roles, permissions, and secure sensitive operations.
 
-9. [Secure Work Practices (e.g., .env on Server)](https://github.com/thepwnexperts/m9)
+9. [Secure Work Practices (e.g., .env on Server)(human errors)](https://github.com/thepwnexperts/m9)
 
    The module covers secure work practices, such as properly handling sensitive information like environment variables (.env) on the server. Protect sensitive data and avoid common security pitfalls during development.
 
