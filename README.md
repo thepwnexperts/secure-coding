@@ -68,6 +68,17 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
 ---
 
+##  `extra`
+1. advanced restrictions
+
+  Delve into advanced restriction techniques for enhancing security beyond the basics. Explore techniques like time,location,ip,device based access and other preventive measures.
+
+2. ids/ips
+
+  Learn about IDS and IPS technologies that can actively monitor and respond to potential threats. Understand how to set up and configure these systems to enhance the security of your applications.
+
+---
+
 ## 💪 `How to Contribute`
 
 Contributing to **Secure Coding** is greatly appreciated! Here's how you can get started:
