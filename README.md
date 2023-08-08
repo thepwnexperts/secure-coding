@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🛡️ Secure Coding Project
+# 🛡️ Secure Coding Project 
+(application security)(defensive)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=1C7F13&center=true&width=435&lines=Secure+Coding+Project)
 
@@ -77,6 +78,10 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
   Learn about IDS and IPS technologies that can actively monitor and respond to potential threats. Understand how to set up and configure these systems to enhance the security of your applications.
 
+3. security headers
+
+  security headers for bare minimum and standard security. 
+  
 ---
 
 ## 💪 `How to Contribute`
