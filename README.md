@@ -21,7 +21,7 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
 ## 📚 `Modules`
 
-1. [Server - Client Side](https://github.com/thepwnexperts/m1) ✅ **Done**
+1. [Server - Client Side](/m1/) ✅ **Done**
 
    This module focuses on implementing secure coding practices for the server-client architecture. Learn how to handle data securely between the server and client sides, prevent common vulnerabilities, and ensure secure communication.
 
