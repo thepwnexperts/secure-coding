@@ -37,15 +37,11 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    This module focuses on input sanitization techniques, particularly implementing a Web Application Firewall (WAF) to prevent common vulnerabilities. Learn how to sanitize user inputs effectively and protect against malicious data.
 
-5. [Impact Mitigation (Isolation)](/m5/)
-
-   In this module, explore strategies for mitigating the impact of security breaches. Learn isolation techniques that help contain and minimize the consequences of security incidents.
-
-6. [Rate Limiting (On Application)](/m6/)
+5. [Rate Limiting (On Application)](/m6/)
 
    The module addresses the importance of rate limiting and implements techniques to prevent abuse and ensure application stability. Control the rate of incoming requests and protect against various types of attacks.
 
-7. [Misconfiguration](/m7/)
+6. [Misconfiguration](/m7/)
 
    This module focuses specifically on misconfigurations related to web applications and their impact on security. Learn about common web application misconfigurations that can expose vulnerabilities and understand how to identify and remediate them effectively.
 
@@ -55,32 +51,22 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    Note: For comprehensive coverage of network and system misconfigurations, separate modules will be provided. However, the inclusion of important configurations like SPF records in this web application misconfiguration module highlights their significance in overall system security.
 
-8. [Authorization (Secure Permission Levels)](/m8/)
+7. [Authorization (Secure Permission Levels)](/m8/)
 
    In this module, implement secure authorization mechanisms and permission levels to ensure proper access control. Manage user roles, permissions, and secure sensitive operations.
 
-9. [Secure Work Practices (e.g., .env on Server)(human errors)](/m9/)
+8. [Secure Work Practices (e.g., .env on Server)(human errors)](/m9/)
 
    The module covers secure work practices, such as properly handling sensitive information like environment variables (.env) on the server. Protect sensitive data and avoid common security pitfalls during development.
 
-10. [Secure and Reliable Communication](/m10/)
+9. [Secure and Reliable Communication](/m10/)
 
     This module focuses on establishing secure and reliable communication channels. Implement encryption, secure protocols, and other relevant techniques to protect data during transmission.
 
 ---
 
 ##  `extra`
-1. advanced restrictions
-
-  Delve into advanced restriction techniques for enhancing security beyond the basics. Explore techniques like time,location,ip,device based access and other preventive measures.
-
-2. ids/ips
-
-  Learn about IDS and IPS technologies that can actively monitor and respond to potential threats. Understand how to set up and configure these systems to enhance the security of your applications.
-
-3. security headers
-
-  security headers for bare minimum and standard security. 
+-- [secure full application](https://github.com/thepwnexperts/secure-app)
   
 ---
 
