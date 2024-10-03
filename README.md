@@ -21,27 +21,28 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
 ## 📚 `Modules`
 
+
+
 1. [Server - Client Side](/m1/) ✅ **Done**
 
    This module focuses on implementing secure coding practices for the server-client architecture. Learn how to handle data securely between the server and client sides, prevent common vulnerabilities, and ensure secure communication.
 
-2. [Authentication](/m2/)
-
-   In this module, explore different types of authentication mechanisms and their secure implementation. Protect user identities and ensure secure access to the application.
-
-3. [Password Hashes and Storage](/m3/)
-
-   The module covers various methods for securely hashing and storing passwords. Protect user passwords from unauthorized access, implement password storage best practices, and ensure confidentiality.
-
-4. [input filtration and Input Sanitization (WAF)](/m4/) 📈 **In Progress**
+2. [input filtration and Input Sanitization (WAF)](/m4/) 📈 **In Progress**
 
    This module focuses on input sanitization techniques, particularly implementing a Web Application Firewall (WAF) to prevent common vulnerabilities. Learn how to sanitize user inputs effectively and protect against malicious data.
 
-5. [Rate Limiting (On Application)](/m6/)
+
+3. [Authentication](/m2/)
+
+   In this module, explore different types of authentication mechanisms and their secure implementation. Protect user identities and ensure secure access to the application.
+
+
+
+4. [Limiting(req and size) (On Application)](/m6/)
 
    The module addresses the importance of rate limiting and implements techniques to prevent abuse and ensure application stability. Control the rate of incoming requests and protect against various types of attacks.
 
-6. [Misconfiguration](/m7/)
+5. [Misconfiguration](/m7/)
 
    This module focuses specifically on misconfigurations related to web applications and their impact on security. Learn about common web application misconfigurations that can expose vulnerabilities and understand how to identify and remediate them effectively.
 
@@ -51,21 +52,22 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    Note: For comprehensive coverage of network and system misconfigurations, separate modules will be provided. However, the inclusion of important configurations like SPF records in this web application misconfiguration module highlights their significance in overall system security.
 
-7. [Authorization (Secure Permission Levels)](/m8/)
+6. [Authorization (Secure Permission Levels)](/m8/)
 
    In this module, implement secure authorization mechanisms and permission levels to ensure proper access control. Manage user roles, permissions, and secure sensitive operations.
 
-8. [Secure Work Practices (e.g., .env on Server)(human errors)](/m9/)
+7. [Secure Work Practices (e.g., .env on Server)(human errors)](/m9/)
 
    The module covers secure work practices, such as properly handling sensitive information like environment variables (.env) on the server. Protect sensitive data and avoid common security pitfalls during development.
 
-9. [Secure and Reliable Communication](/m10/)
-
-    This module focuses on establishing secure and reliable communication channels. Implement encryption, secure protocols, and other relevant techniques to protect data during transmission.
 
 ---
 
 ##  `extra`
+-- [Secure and Reliable Communication](/m10/)
+
+    This module focuses on establishing secure and reliable communication channels. Implement encryption, secure protocols, and other relevant techniques to protect data during transmission.
+
 -- [secure full application](https://github.com/thepwnexperts/secure-app)
   
 ---
