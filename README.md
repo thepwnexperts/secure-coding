@@ -21,55 +21,43 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
 ## 📚 `Modules`
 
-
-
 1. [Server - Client Side](/m1/) ✅ **Done**
 
-   This module focuses on implementing secure coding practices for the server-client architecture. Learn how to handle data securely between the server and client sides, prevent common vulnerabilities, and ensure secure communication.
+   Focus on implementing secure coding practices for server-client architecture. Learn how to securely handle data between server and client, prevent common vulnerabilities, and ensure secure communication.
 
-2. [input filtration and Input Sanitization (WAF)](/m4/) 📈 **In Progress**
+2. [Input Filtration and Input Sanitization (WAF)](/m4/) 📈 **In Progress**
 
-   This module focuses on input sanitization techniques, particularly implementing a Web Application Firewall (WAF) to prevent common vulnerabilities. Learn how to sanitize user inputs effectively and protect against malicious data.
+   Learn input sanitization techniques and Web Application Firewall (WAF) implementation to protect against common vulnerabilities by sanitizing user inputs effectively.
 
+3. [Authentication & Authorization](/m2/)
 
-3. [Authentication](/m2/)
-
-   In this module, explore different types of authentication mechanisms and their secure implementation. Protect user identities and ensure secure access to the application.
-
-
+   Explore and implement secure authentication mechanisms and authorization permission levels to manage user roles, access control, and protect sensitive operations.
 
 4. [Limiting(req and size) (On Application)](/m6/)
 
-   The module addresses the importance of rate limiting and implements techniques to prevent abuse and ensure application stability. Control the rate of incoming requests and protect against various types of attacks.
+   Implement rate limiting techniques to prevent abuse, ensure application stability, and control the rate of incoming requests.
 
 5. [Misconfiguration](/m7/)
 
-   This module focuses specifically on misconfigurations related to web applications and their impact on security. Learn about common web application misconfigurations that can expose vulnerabilities and understand how to identify and remediate them effectively.
+   Learn about common web misconfigurations that expose vulnerabilities, such as insecure server settings and improper handling of sensitive files (`.env`, `.htaccess.backup`). Avoid information disclosure by securing sensitive information properly.
 
-   The module covers a range of web application misconfigurations, including insecure server settings, weak access controls, improper handling of user input, and other important configurations like SPF (Sender Policy Framework) records. Although SPF records are typically associated with system misconfigurations, they are included in this module due to their importance in enhancing email security and preventing spoofing attacks.
+6. [Secure Work Practices (e.g., .env on Server)(Human Errors)](/m9/)
 
-   By studying practical examples and best practices, you will gain valuable insights into the consequences of these misconfigurations and how to prevent them. Understanding web application misconfigurations is crucial for maintaining the security and integrity of your web applications.
+   Implement secure work practices to protect sensitive data such as environment variables, avoid human errors, and mitigate common security pitfalls during development.
 
-   Note: For comprehensive coverage of network and system misconfigurations, separate modules will be provided. However, the inclusion of important configurations like SPF records in this web application misconfiguration module highlights their significance in overall system security.
+7. [others(remaining)]()
 
-6. [Authorization (Secure Permission Levels)](/m8/)
-
-   In this module, implement secure authorization mechanisms and permission levels to ensure proper access control. Manage user roles, permissions, and secure sensitive operations.
-
-7. [Secure Work Practices (e.g., .env on Server)(human errors)](/m9/)
-
-   The module covers secure work practices, such as properly handling sensitive information like environment variables (.env) on the server. Protect sensitive data and avoid common security pitfalls during development.
-
-
+    remaining practice and vulnerabilities
 ---
 
-##  `extra`
+##  `Extra`
+
 -- [Secure and Reliable Communication](/m10/)
 
-    This module focuses on establishing secure and reliable communication channels. Implement encryption, secure protocols, and other relevant techniques to protect data during transmission.
+    Establish secure communication channels using encryption, secure protocols, and other relevant techniques to protect data during transmission.
 
--- [secure full application](https://github.com/thepwnexperts/secure-app)
-  
+-- [Secure Full Application](https://github.com/thepwnexperts/secure-app)
+
 ---
 
 ## 💪 `How to Contribute`
@@ -102,3 +90,4 @@ If you find this project helpful or valuable, please consider **starring** our r
 Thank you for your contributions and support!
 
 Happy coding!
+```
