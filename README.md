@@ -25,27 +25,27 @@ Welcome to the **Secure Coding Project**! Our mission is to enhance code securit
 
    Focus on implementing secure coding practices for server-client architecture. Learn how to securely handle data between server and client, prevent common vulnerabilities, and ensure secure communication.
 
-2. [Input Filtration and Input Sanitization (WAF)](/m4/) 📈 **In Progress**
+2. [Input Filtration and Input Sanitization (WAF)](/m2/) 📈 **In Progress**
 
    Learn input sanitization techniques and Web Application Firewall (WAF) implementation to protect against common vulnerabilities by sanitizing user inputs effectively.
 
-3. [Authentication & Authorization](/m2/)
+3. [Authentication & Authorization](/m3/)
 
    Explore and implement secure authentication mechanisms and authorization permission levels to manage user roles, access control, and protect sensitive operations.
 
-4. [Limiting(req and size) (On Application)](/m6/)
+4. [Limiting(req and size) (On Application)](/m4/)
 
    Implement rate limiting techniques to prevent abuse, ensure application stability, and control the rate of incoming requests.
 
-5. [Misconfiguration](/m7/)
+5. [Misconfiguration](/m5/)
 
    Learn about common web misconfigurations that expose vulnerabilities, such as insecure server settings and improper handling of sensitive files (`.env`, `.htaccess.backup`). Avoid information disclosure by securing sensitive information properly.
 
-6. [Secure Work Practices (e.g., .env on Server)(Human Errors)](/m9/)
+6. [Secure Work Practices (e.g., .env on Server)(Human Errors)](/m6/)
 
    Implement secure work practices to protect sensitive data such as environment variables, avoid human errors, and mitigate common security pitfalls during development.
 
-7. [others(remaining)]()
+7. [others(remaining)](/m6/)
 
     remaining practice and vulnerabilities
 ---
